@@ -1,0 +1,1 @@
+use any data set and make changes in preprocessing to fix dataset all the models output will be saved in new plots folder this specific dataset uses xyz coordinates of person's moments to make dasets of points
